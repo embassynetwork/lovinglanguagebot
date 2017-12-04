@@ -24,6 +24,8 @@ hook to a local version. Like so:
   `ln -s /path/to/repo/.env/postactivate $VIRTUAL_ENV/bin/postactivate`
   * this presumes that your postactivate hook is otherwise empty. if there are other things you have or want in there, then merge them with your local version. 
 
+Make sure to add/invite your bot to any channels you want it to participate in. 
+
 # Running
 
 $ workon <virtual env name>

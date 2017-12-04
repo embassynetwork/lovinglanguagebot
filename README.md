@@ -28,7 +28,7 @@ Make sure to add/invite your bot to any channels you want it to participate in.
 
 # Running
 
-$ workon <virtual env name>
+$ `workon <virtual env name>`
 
-$ ./loving.py
+$ `./loving.py`
 

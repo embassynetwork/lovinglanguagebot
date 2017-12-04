@@ -1,0 +1,6 @@
+#!/usr/bin/zsh
+# This hook is sourced after this virtualenv is activated.
+
+export LOVING_LANGUAGE_SLACK_TOKEN='xxxx-xxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx'
+export LOVING_LANGUAGE_BOT_ID='xxxxxxxxx'
+
